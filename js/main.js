@@ -1,7 +1,7 @@
 const loader = document.querySelector('.full-loader')
 
 window.addEventListener('load', ()=> {
-    // loader.style.display = 'none';
+loader.style.display = 'none';
 })
 
 
