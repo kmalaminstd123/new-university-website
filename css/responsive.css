@@ -1,0 +1,96 @@
+@media only screen and (max-width: 1321px){
+    footer::after{
+        top: -22px;
+    }
+}
+
+@media only screen and (max-width: 1226px){
+    footer::after{
+        top: -25px;
+    }
+}
+
+@media only screen and (max-width: 1092px){
+    footer::after{
+        top: -28px;
+    }
+}
+
+
+@media only screen and (max-width: 992px) {
+    #featuredCourse .swiper-button-prev{
+        left: 81% ;
+    }
+    #featuredCourse .swiper-button-prev{
+        left: 75% ;
+    }
+}
+
+@media only screen and (max-width: 954px){
+    footer::after{
+        top: -31px;
+    }
+}
+
+@media only screen and (max-width: 824px){
+    footer::after{
+        top: -34px;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .course-feat-card{
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 688px){
+    footer::after{
+        top: -37px;
+    }
+}
+
+
+@media only screen and (max-width: 550px){
+    footer::after{
+        top: -40px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+    #featuredCourse .swiper-button-next, #featuredCourse .swiper-button-prev{
+        top: 80px;
+    }
+
+    #featuredCourse .swiper-button-prev{
+        left: 70%;
+    }
+
+    #featuredCourse  .swiper-button-next:after, #featuredCourse  .swiper-button-prev:after{
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 418px){
+    footer::after{
+        top: -43px;
+    }
+}
+
+
+@media only screen and (max-width: 320px){
+    #featuredCourse .swiper-button-next{
+        right: 33%;
+    }
+
+    #featuredCourse .swiper-button-prev{
+        left: 33%;
+    }
+
+    footer::after{
+        top: -47px;
+    }
+}
