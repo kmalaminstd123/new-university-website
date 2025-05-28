@@ -42,6 +42,10 @@
     .course-feat-card{
         margin-bottom: 30px;
     }
+
+    .career-pathway{
+        margin-bottom: 40px;
+    }
 }
 
 @media only screen and (max-width: 688px){
