@@ -97,4 +97,8 @@
     footer::after{
         top: -47px;
     }
+
+    .footer-news-letter button{
+        flex: 1;
+    }
 }
